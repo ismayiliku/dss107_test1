@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "CQhE8oM",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "test2",
+  "listed": true,
+  "name": "test\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "test2"
+    },
+    "lastModifiedOn": 1680795038217
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "test2"
+    },
+    "lastModifiedOn": 1680795038217
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
